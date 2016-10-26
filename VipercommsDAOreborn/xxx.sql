@@ -1,0 +1,1 @@
+SELECT  *  FROM Pegawaix WHERE ID = 555 AND KODE = 'BETA'

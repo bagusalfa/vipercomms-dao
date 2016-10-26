@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.6.5
+Created-By: Viper Comms International
+Main-Class: viper.comms.dao.generator.GenBPOSlim
+Class-Path: lib/mysql-connector-java-3.0.14-production-bin.jar lib/jaybird-full-2.0.1.jar lib/l2fprod-common-all.jar
+X-COMMENT: Main-Class will be added automatically by build
