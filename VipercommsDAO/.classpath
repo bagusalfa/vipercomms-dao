@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derby.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/jaybird-full-2.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/master/D/download/Swing Resource/LookNfeel/liquidlnf-0.1.7.zip"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/jtds-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/postgresql-8.3-603.jdbc3.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyclient.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_cs.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_de_DE.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_es.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_fr.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_hu.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_it.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_ja_JP.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_ko_KR.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_pl.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_pt_BR.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_ru.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_zh_CN.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyLocale_zh_TW.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbynet.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbyrun.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/derbytools.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-all.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-buttonbar.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-directorychooser.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-fontchooser.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-outlookbar.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-sandbox.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-sheet.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-tasks.jar"/>
+	<classpathentry kind="lib" path="D:/GeneralLibs/l2fprod-common-totd.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

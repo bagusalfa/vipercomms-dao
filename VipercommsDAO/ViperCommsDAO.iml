@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbytools.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derby.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyclient.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_de_DE.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_es.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_fr.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_it.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_ja_JP.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_ko_KR.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_pt_BR.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_zh_CN.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_zh_TW.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbynet.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyrun.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Library/PDF/iText/itext-2.0.2.zip" />
+    <libelement value="file://C:/compaq/Java/JayBird-2.0.1JDK_1.5/jaybird-full-2.0.1.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/SQLServer/jtds-1.2-dist.zip" />
+    <libelement value="file://C:/compaq/Java/LiquidLnF.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-totd.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-all.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-buttonbar.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-directorychooser.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-fontchooser.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-outlookbar.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-sandbox.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-sheet.jar" />
+    <libelement value="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-tasks.jar" />
+    <libelement value="file://C:/compaq/Java/ZIP/build-mysql-jdbc/mysql-connector-java-3.0.14-production/mysql-connector-java-3.0.14-production-bin.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/SQLServer/jtds-1.2-dist/jtds-1.2.jar" />
+    <libelement value="file://C:/compaq/Java/150rahasia Java/Driver/PostgreSQL/postgresql-8.0-319.jdbc3.zip" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="jdk" jdkName="1.6" jdkType="JavaSDK" />
+    <orderEntry type="module-library">
+      <library name="junit3">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbytools.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbytools.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derby.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derby.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyclient.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyclient.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_de_DE.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_de_DE.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_es.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_es.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_fr.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_fr.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_it.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_it.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_ja_JP.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_ja_JP.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_ko_KR.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_ko_KR.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_pt_BR.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_pt_BR.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_zh_CN.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_zh_CN.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyLocale_zh_TW.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyLocale_zh_TW.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbynet.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbynet.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="derbyrun.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/ApacheDerby/derbyrun.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="itext-2.0.2.zip">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Library/PDF/iText/itext-2.0.2.zip" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaybird-full-2.0.1.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/JayBird-2.0.1JDK_1.5/jaybird-full-2.0.1.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtds-1.2-dist.zip">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/SQLServer/jtds-1.2-dist.zip" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="LiquidLnF.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/LiquidLnF.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-totd.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-totd.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-all.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-all.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-buttonbar.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-buttonbar.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-directorychooser.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-directorychooser.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-fontchooser.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-fontchooser.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-outlookbar.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-outlookbar.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-sandbox.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-sandbox.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-sheet.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-sheet.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="l2fprod-common-tasks.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/Swing Resource/l2fprod-common-0.2-dev-20051211/l2fprod-common-0.2-dev/lib/l2fprod-common-tasks.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-3.0.14-production-bin.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/ZIP/build-mysql-jdbc/mysql-connector-java-3.0.14-production/mysql-connector-java-3.0.14-production-bin.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jtds-1.2.jar">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/SQLServer/jtds-1.2-dist/jtds-1.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="postgresql-8.0-319.jdbc3.zip">
+        <CLASSES>
+          <root url="file://C:/compaq/Java/150rahasia Java/Driver/PostgreSQL/postgresql-8.0-319.jdbc3.zip" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
+
